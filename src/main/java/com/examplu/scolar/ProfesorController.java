@@ -8,7 +8,7 @@ public class ProfesorController {
 
     private final ProfesorRepository repository;
 
-    public ProfesorController(ProfesorRepository repository) {
+    public ProfesorController(ProfesorRepository repository) {                       //Modificare2
         this.repository = repository;
     }
 
